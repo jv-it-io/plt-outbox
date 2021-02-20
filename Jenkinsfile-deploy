@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-@Library('customFagg') _
+@Library('customLib') _
 def notif = new fagg.notif()
 
 properties([
